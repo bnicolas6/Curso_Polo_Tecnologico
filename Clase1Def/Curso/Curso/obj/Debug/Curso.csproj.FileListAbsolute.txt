@@ -1,0 +1,8 @@
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.dll.config
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.dll
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.pdb
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.Negocio.dll
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.Negocio.pdb
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\obj\Debug\Curso.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\obj\Debug\Curso.dll
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\obj\Debug\Curso.pdb

@@ -1,0 +1,4 @@
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso.Negocio\bin\Debug\Curso.Negocio.dll
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso.Negocio\bin\Debug\Curso.Negocio.pdb
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.dll
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.pdb
