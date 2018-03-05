@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.dll.config
 C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.dll
 C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.pdb
@@ -14,3 +15,22 @@ C:\Users\admin\Documents\Visual Studio 2013\Projects\PoloRepo\Curso1\Curso_Polo_
 C:\Users\admin\Documents\Visual Studio 2013\Projects\PoloRepo\Curso1\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\obj\Debug\Curso.csprojResolveAssemblyReference.cache
 C:\Users\admin\Documents\Visual Studio 2013\Projects\PoloRepo\Curso1\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\obj\Debug\Curso.dll
 C:\Users\admin\Documents\Visual Studio 2013\Projects\PoloRepo\Curso1\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\obj\Debug\Curso.pdb
+=======
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.dll.config
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.dll
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.pdb
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.Negocio.dll
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\bin\Curso.Negocio.pdb
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\obj\Debug\Curso.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\obj\Debug\Curso.dll
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso\obj\Debug\Curso.pdb
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\bin\Curso.dll.config
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\bin\Curso.dll
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\bin\Curso.pdb
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\bin\Curso.Negocio.dll
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\bin\Curso.Negocio.pdb
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\obj\Debug\Curso.csprojResolveAssemblyReference.cache
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\obj\Debug\Curso.dll
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso\obj\Debug\Curso.pdb
+>>>>>>> master

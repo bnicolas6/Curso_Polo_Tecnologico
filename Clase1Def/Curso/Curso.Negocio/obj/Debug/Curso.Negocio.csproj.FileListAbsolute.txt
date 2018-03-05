@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso.Negocio\bin\Debug\Curso.Negocio.dll
 C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso.Negocio\bin\Debug\Curso.Negocio.pdb
 C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.dll
@@ -7,3 +8,15 @@ C:\Users\admin\Documents\Visual Studio 2013\Projects\PoloRepo\Curso1\Curso_Polo_
 C:\Users\admin\Documents\Visual Studio 2013\Projects\PoloRepo\Curso1\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.csprojResolveAssemblyReference.cache
 C:\Users\admin\Documents\Visual Studio 2013\Projects\PoloRepo\Curso1\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.dll
 C:\Users\admin\Documents\Visual Studio 2013\Projects\PoloRepo\Curso1\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.pdb
+=======
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso.Negocio\bin\Debug\Curso.Negocio.dll
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso.Negocio\bin\Debug\Curso.Negocio.pdb
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.dll
+C:\Users\Nicolas\Desktop\Curso\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.pdb
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.dll
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso.Negocio\obj\Debug\Curso.Negocio.pdb
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso.Negocio\bin\Debug\Curso.Negocio.dll
+C:\Users\g\source\repos\Polo_Curso1Repo\Curso_Polo_Tecnologico\Clase1Def\Curso\Curso.Negocio\bin\Debug\Curso.Negocio.pdb
+>>>>>>> master
