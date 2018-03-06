@@ -6,7 +6,7 @@
 <head runat="server">
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Esto es una pagina</title>
+    <title>XXX Page Just Sarcasm</title>
     <script src="js/jquery-3.3.1.min.js"></script>
 
     <script>
@@ -27,14 +27,12 @@
 </head>
 
 <body style="height: 158px; width: 940px;">
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" typeof="">
     <div id="div1">
         <h4>Ingrese sus datos:</h4>
-        <p style="margin-left: 320px"> Usuario:</p>
-        <p style="margin-left: 300px"> Contraseña:</p>
-        <input id="Btn" type="button" value="Login" />
-        <input id="TextUser" type="text" />
-        <input id="TextPass" type="text" />    
+        <p style="margin-left: 320px"> Usuario: <input id="TextUser" type="text" /> </p>
+        <p style="margin-left: 300px"> Contraseña: <input id="TextPass" type="text" /></p>
+        <p style="margin-left: 400px"><input id="Btn" type="button" value="Login" /></p>
     </div>
     </form>
 
@@ -55,9 +53,7 @@
                              alert("Los datos han sido ingresado correctamente");
                          else
                              alert("Error en el ingreso de los datos, vuelva a intentarlo");
-
                      });
-
         });
     </script>   
 </body>
