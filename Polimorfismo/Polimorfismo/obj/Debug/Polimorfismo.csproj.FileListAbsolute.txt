@@ -1,0 +1,5 @@
+c:\users\gyl_curso\documents\visual studio 2013\Projects\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+c:\users\gyl_curso\documents\visual studio 2013\Projects\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+c:\users\gyl_curso\documents\visual studio 2013\Projects\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+c:\users\gyl_curso\documents\visual studio 2013\Projects\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+c:\users\gyl_curso\documents\visual studio 2013\Projects\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb
