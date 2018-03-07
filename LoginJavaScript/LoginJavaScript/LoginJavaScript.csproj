@@ -19,6 +19,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -63,6 +65,7 @@
     <Content Include="css\bootstrap-reboot.min.css.map" />
     <Content Include="css\bootstrap.css.map" />
     <Content Include="css\bootstrap.min.css.map" />
+    <Content Include="estilos.css" />
     <Content Include="js\bootstrap.bundle.js.map" />
     <Content Include="js\bootstrap.bundle.min.js.map" />
     <Content Include="js\bootstrap.js.map" />

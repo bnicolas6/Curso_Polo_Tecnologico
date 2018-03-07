@@ -7,7 +7,7 @@
 <%--    <link href="css/bootstrap-grid.min.css" rel="stylesheet" />
     <link href="css/bootstrap.min.css" rel="stylesheet" />--%>
     <script src="js/jquery-3.3.1.min.js"></script>
-    <title></title>
+    <title>Programa-Curso3</title>
     <style type="text/css">
         #form1 {
             height: 220px;
