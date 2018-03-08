@@ -1,0 +1,5 @@
+﻿.visibilidad {
+    display:none;
+    /*Hago una clase aparte, de lo contrario, tendria que ponerlo con un style dentro de la etiqueta,
+      pero no se remover "style" con jquery, pero si se remover clases de CSS*/
+}
