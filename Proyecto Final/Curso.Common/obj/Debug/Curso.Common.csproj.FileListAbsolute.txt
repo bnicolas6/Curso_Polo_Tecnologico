@@ -1,0 +1,10 @@
+C:\Desa\GYL\POLO\Curso\Curso.Common\bin\Debug\Curso.Common.dll
+C:\Desa\GYL\POLO\Curso\Curso.Common\bin\Debug\Curso.Common.pdb
+C:\Desa\GYL\POLO\Curso\Curso.Common\obj\Debug\Curso.Common.csproj.CoreCompileInputs.cache
+C:\Desa\GYL\POLO\Curso\Curso.Common\obj\Debug\Curso.Common.dll
+C:\Desa\GYL\POLO\Curso\Curso.Common\obj\Debug\Curso.Common.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Common\bin\Debug\Curso.Common.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Common\bin\Debug\Curso.Common.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Common\obj\Debug\Curso.Common.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Common\obj\Debug\Curso.Common.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Common\obj\Debug\Curso.Common.csprojResolveAssemblyReference.cache

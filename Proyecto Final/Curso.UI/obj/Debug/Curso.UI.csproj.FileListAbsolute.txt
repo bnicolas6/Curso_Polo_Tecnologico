@@ -1,0 +1,30 @@
+C:\Desa\GYL\POLO\Curso\Curso.UI\bin\Curso.UI.dll.config
+C:\Desa\GYL\POLO\Curso\Curso.UI\bin\Curso.UI.dll
+C:\Desa\GYL\POLO\Curso\Curso.UI\bin\Curso.UI.pdb
+C:\Desa\GYL\POLO\Curso\Curso.UI\bin\Curso.Common.dll
+C:\Desa\GYL\POLO\Curso\Curso.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desa\GYL\POLO\Curso\Curso.UI\bin\Curso.Common.pdb
+C:\Desa\GYL\POLO\Curso\Curso.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desa\GYL\POLO\Curso\Curso.UI\obj\Debug\Curso.UI.csprojResolveAssemblyReference.cache
+C:\Desa\GYL\POLO\Curso\Curso.UI\obj\Debug\Curso.UI.csproj.CoreCompileInputs.cache
+C:\Desa\GYL\POLO\Curso\Curso.UI\obj\Debug\Curso.UI.csproj.CopyComplete
+C:\Desa\GYL\POLO\Curso\Curso.UI\obj\Debug\Curso.UI.dll
+C:\Desa\GYL\POLO\Curso\Curso.UI\obj\Debug\Curso.UI.pdb
+C:\Desa\GYL\POLO\Curso\Curso.UI\bin\Curso.Business.dll
+C:\Desa\GYL\POLO\Curso\Curso.UI\bin\Curso.DataAccess.dll
+C:\Desa\GYL\POLO\Curso\Curso.UI\bin\Curso.Business.pdb
+C:\Desa\GYL\POLO\Curso\Curso.UI\bin\Curso.DataAccess.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\bin\Curso.UI.dll.config
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\bin\Curso.UI.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\bin\Curso.UI.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\bin\Curso.Business.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\bin\Curso.Common.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\bin\Curso.Business.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\bin\Curso.Common.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\obj\Debug\Curso.UI.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\obj\Debug\Curso.UI.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\obj\Debug\Curso.UI.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\bin\Curso.DataAccess.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.UI\bin\Curso.DataAccess.pdb

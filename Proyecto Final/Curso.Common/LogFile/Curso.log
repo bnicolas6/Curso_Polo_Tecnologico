@@ -1,0 +1,1 @@
+﻿22/03/2018 20:09:40, Curso.DataAccess.DACs.LostPasswordDAC.getEmail(string email) -> El procedimiento o la función 'sp_getUser' esperaba el parámetro '@Usuario', que no se ha especificado.

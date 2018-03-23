@@ -1,0 +1,20 @@
+C:\Desa\GYL\POLO\Curso\Curso.Business\bin\Debug\Curso.Business.dll
+C:\Desa\GYL\POLO\Curso\Curso.Business\bin\Debug\Curso.Business.pdb
+C:\Desa\GYL\POLO\Curso\Curso.Business\bin\Debug\Curso.Common.dll
+C:\Desa\GYL\POLO\Curso\Curso.Business\bin\Debug\Curso.DataAccess.dll
+C:\Desa\GYL\POLO\Curso\Curso.Business\bin\Debug\Curso.Common.pdb
+C:\Desa\GYL\POLO\Curso\Curso.Business\bin\Debug\Curso.DataAccess.pdb
+C:\Desa\GYL\POLO\Curso\Curso.Business\obj\Debug\Curso.Business.csprojResolveAssemblyReference.cache
+C:\Desa\GYL\POLO\Curso\Curso.Business\obj\Debug\Curso.Business.csproj.CoreCompileInputs.cache
+C:\Desa\GYL\POLO\Curso\Curso.Business\obj\Debug\Curso.Business.csproj.CopyComplete
+C:\Desa\GYL\POLO\Curso\Curso.Business\obj\Debug\Curso.Business.dll
+C:\Desa\GYL\POLO\Curso\Curso.Business\obj\Debug\Curso.Business.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Business\bin\Debug\Curso.Business.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Business\bin\Debug\Curso.Business.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Business\bin\Debug\Curso.Common.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Business\bin\Debug\Curso.DataAccess.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Business\bin\Debug\Curso.Common.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Business\bin\Debug\Curso.DataAccess.pdb
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Business\obj\Debug\Curso.Business.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Business\obj\Debug\Curso.Business.dll
+C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Business\obj\Debug\Curso.Business.pdb

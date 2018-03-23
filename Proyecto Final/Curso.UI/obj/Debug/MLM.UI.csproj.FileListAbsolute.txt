@@ -1,0 +1,15 @@
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\bin\MLM.UI.dll.config
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\bin\MLM.UI.dll
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\bin\MLM.UI.pdb
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\bin\MLM.Business.dll
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\bin\MLM.Common.dll
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\bin\MLM.DataAccess.dll
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\bin\MLM.Business.pdb
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\bin\MLM.Common.pdb
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\bin\MLM.DataAccess.pdb
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\obj\Debug\MLM.UI.csprojResolveAssemblyReference.cache
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\obj\Debug\MLM.UI.csproj.CoreCompileInputs.cache
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\obj\Debug\MLM.UI.dll
+C:\Desa\NET\PoloUNLaM\MLN\MLM.UI\obj\Debug\MLM.UI.pdb
