@@ -12,7 +12,7 @@ namespace Curso.Business
 {
     public static class EmailSending{
 
-        public static bool send(string email, string password) {
+        public static bool send(string email, string code) {
 
             /*-------------------------MENSAJE DE CORREO----------------------*/
 
@@ -25,14 +25,14 @@ namespace Curso.Business
             //Nota: La propiedad To es una colección que permite enviar el mensaje a más de un destinatario
 
             //Asunto
-            mmsg.Subject = "Asunto del correo";
+            mmsg.Subject = "Contraseña perdida";
             mmsg.SubjectEncoding = Encoding.UTF8;
 
             //Direccion de correo electronico que queremos que reciba una copia del mensaje
             // mmsg.Bcc.Add("destinatariocopia@servidordominio.com"); //Opcional
 
             //Cuerpo del Mensaje
-            mmsg.Body = "Su contraseña actual es: " + password;
+            mmsg.Body = "Codigo para cambiar contraseña: " + code;
             mmsg.BodyEncoding = Encoding.UTF8;
             mmsg.IsBodyHtml = false; //Si no queremos que se envíe como HTML
 

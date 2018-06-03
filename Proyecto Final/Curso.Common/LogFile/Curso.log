@@ -1,1 +1,5 @@
 ﻿22/03/2018 20:09:40, Curso.DataAccess.DACs.LostPasswordDAC.getEmail(string email) -> El procedimiento o la función 'sp_getUser' esperaba el parámetro '@Usuario', que no se ha especificado.
+25/03/2018 22:00:35, Curso.DataAccess.DACs.RegisterDAC.insertUser(string user, string email, string password) -> Infracción de la restricción PRIMARY KEY 'PK_Usuarios'. No se puede insertar una clave duplicada en el objeto 'dbo.Usuarios'. El valor de la clave duplicada es (a@gmail.com).
+Se terminó la instrucción.
+25/03/2018 22:17:55, Curso.DataAccess.DACs.RegisterDAC.insertUser(string user, string email, string password) -> Infracción de la restricción PRIMARY KEY 'PK_Usuarios'. No se puede insertar una clave duplicada en el objeto 'dbo.Usuarios'. El valor de la clave duplicada es (a@gmail.com).
+Se terminó la instrucción.

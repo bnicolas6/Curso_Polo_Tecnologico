@@ -11,5 +11,6 @@ namespace Curso.Common.Interfaces
         bool Login(string user, string password);
         bool LostPassword(string email);
         bool Register(string user, string email, string password);
+        bool changePassword(string email, string code, string password);
     }
 }

@@ -24,7 +24,7 @@ namespace Curso.DataAccess.DACs
 
         public int insertUser(string user, string email, string password)
         {
-            int cantFilas = 0;
+            int result = 0;
 
             using (IDbCommand oCommand = base.GetCommand())
             {
@@ -51,7 +51,7 @@ namespace Curso.DataAccess.DACs
 
                 try
                 {
-                    cantFilas = oCommand.ExecuteNonQuery();
+                    result = oCommand.ExecuteNonQuery();
                     //Si el PROCEDURE afectado tiene la linea "SET NOCOUNT ON": Si no ocurre ningun error y hace un INSERT, ExecuteNonQuery() devolvera -1, de lo contrario no devuelve ningun valor numerico.
                     //                       si lo cambio por "SET NOCOUNT OFF": Si no ocurre ningun error y hace un INSERT, ExecuteNonQuery() devolvera la cantidad de registros afectados (1) de lo contrario no devuelve ningun valor numerico.
                     base.CloseCommand();
@@ -62,7 +62,7 @@ namespace Curso.DataAccess.DACs
                 }
 
             }
-            return cantFilas;
+            return result;
         }
     }
 }

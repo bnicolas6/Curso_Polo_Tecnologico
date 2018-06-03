@@ -14,3 +14,10 @@ C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.DataAccess\bin\Debug\C
 C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.DataAccess\obj\Debug\Curso.DataAccess.csprojResolveAssemblyReference.cache
 C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.DataAccess\obj\Debug\Curso.DataAccess.dll
 C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.DataAccess\obj\Debug\Curso.DataAccess.pdb
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.DataAccess\bin\Debug\Curso.DataAccess.dll
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.DataAccess\bin\Debug\Curso.DataAccess.pdb
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.DataAccess\bin\Debug\Curso.Common.dll
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.DataAccess\bin\Debug\Curso.Common.pdb
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.DataAccess\obj\Debug\Curso.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.DataAccess\obj\Debug\Curso.DataAccess.dll
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.DataAccess\obj\Debug\Curso.DataAccess.pdb

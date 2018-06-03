@@ -63,5 +63,42 @@ namespace Curso.DataAccess.DACs
             }
             return oUser;
         }
+
+        public int updateUser(string email, string password)
+        {
+            int result = 0;
+
+            using (IDbCommand oCommand = base.GetCommand())
+            {
+                oCommand.CommandType = CommandType.StoredProcedure;
+                oCommand.CommandText = "sp_updateUser";
+
+                IDbDataParameter oParam0 = (IDbDataParameter)oCommand.CreateParameter();
+                oParam0.ParameterName = "@Email";
+                oParam0.DbType = DbType.AnsiString;
+                oParam0.Value = email;
+                oCommand.Parameters.Add(oParam0);
+
+                IDbDataParameter oParam1 = (IDbDataParameter)oCommand.CreateParameter();
+                oParam1.ParameterName = "@Password";
+                oParam1.DbType = DbType.AnsiString;
+                oParam1.Value = password;
+                oCommand.Parameters.Add(oParam1);
+
+                try
+                {
+                    result = oCommand.ExecuteNonQuery();
+                    //Si el PROCEDURE afectado tiene la linea "SET NOCOUNT ON": Si no ocurre ningun error y hace un INSERT, ExecuteNonQuery() devolvera -1, de lo contrario no devuelve ningun valor numerico.
+                    //                       si lo cambio por "SET NOCOUNT OFF": Si no ocurre ningun error y hace un INSERT, ExecuteNonQuery() devolvera la cantidad de registros afectados (1) de lo contrario no devuelve ningun valor numerico.
+                    base.CloseCommand();
+                }
+                catch (System.Exception ex) //Si no lo puede hacer INSERT, lanza una excepcion
+                {
+                    Logging.Instance.LogError(_classFullName + ".insertUser(string user, string email, string password) -> " + ex.Message.ToString(), ex);
+                }
+
+            }
+            return result;
+        }
     }
 }

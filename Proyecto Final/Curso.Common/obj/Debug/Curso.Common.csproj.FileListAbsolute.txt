@@ -8,3 +8,8 @@ C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Common\bin\Debug\Curso
 C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Common\obj\Debug\Curso.Common.dll
 C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Common\obj\Debug\Curso.Common.pdb
 C:\Users\Nicolas\Desktop\Curso_Final\Proyecto Final\Curso.Common\obj\Debug\Curso.Common.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.Common\bin\Debug\Curso.Common.dll
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.Common\bin\Debug\Curso.Common.pdb
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.Common\obj\Debug\Curso.Common.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.Common\obj\Debug\Curso.Common.dll
+C:\Users\Nicolas\Desktop\Proyecto Final\Curso.Common\obj\Debug\Curso.Common.pdb

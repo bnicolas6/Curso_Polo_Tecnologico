@@ -78,5 +78,24 @@ namespace Curso.UI
                 throw ex;
             }
         }
+
+        /////////////////////////////////////////////////////////ChangePassword/////////////////////////////////////////////////////////
+        [WebMethod(CacheDuration = 1, BufferResponse = false)]
+        public static string ChangePassword(string email, string code, string password)
+        {
+            try
+            {
+                RequestResult oRequestResult = new RequestResult();
+                using (IBusiness business = ((IBusiness)BusinessFactory.Instance.CreateBusiness(typeof(IBusiness), new object[] { })))
+                {
+                    oRequestResult.Authentication = (business.changePassword(email, code, password)) ? "Ok" : "Error";
+                }
+                return new JavaScriptSerializer().Serialize(oRequestResult);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }
